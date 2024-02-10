@@ -36,5 +36,5 @@ submit = st.button("Give me the response")
 
 if submit:
     response = getGemini_response(input,image)
-    st.subheader("Hey this is 69696 and this is your response")
+    st.subheader("Hey this is SEVA BOT and this is your response")
     st.write(response)
